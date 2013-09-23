@@ -1,0 +1,8 @@
+c:\users\pawan\documents\visual studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\ball.xnb
+c:\users\pawan\documents\visual studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\WindowsGame4.exe
+c:\users\pawan\documents\visual studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\WindowsGame4.pdb
+c:\users\pawan\documents\visual studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.csprojResolveAssemblyReference.cache
+c:\users\pawan\documents\visual studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\pawan\documents\visual studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.exe
+c:\users\pawan\documents\visual studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.pdb
+c:\users\pawan\documents\visual studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\index.xnb
